@@ -14,7 +14,8 @@ var bio = {
                       "currently working as digital marketing analyst and web " +
                       "designer in Campinas, SP, Brazil.",
     "skills": [
-        "HTML", "CSS", "JavaScript", "PHP", "MySQL", "Git", "Magento", "Wordpress", "Photoshop", "Illustrator", "InDesign", "Premiere"
+        "HTML", "CSS", "JavaScript", "PHP", "MySQL", "Git", "Magento", "Wordpress",
+        "Photoshop", "Illustrator", "InDesign", "Premiere"
     ],
     "bioPic": "images/me.jpg"
 };
@@ -53,21 +54,29 @@ var work = {
             "title": "Digital marketing analyst / Web designer",
             "location": "Campinas, São Paulo, Brazil",
             "dates": "August 2011 - Until now",
-            "description": "Responsible for the maintenance and management of the content of a portal developed in Wordpress and an e-commerce in Magento. Hotsite and email marketing creation. SEO, SEM, metrics analysis (Google Analytics and Facebook Insights) and management of digital marketing campaigns (Google AdWords and Facebook Ads)."
+            "description": "Responsible for the maintenance and management of " +
+                           "the content of a portal developed in Wordpress and " +
+                           "an e-commerce in Magento. Hotsite and email marketing " +
+                           "creation. SEO, SEM, metrics analysis (Google Analytics " +
+                           "and Facebook Insights) and management of digital " +
+                           "marketing campaigns (Google AdWords and Facebook Ads)."
         },
         {
             "employer": "Multi Holding",
             "title": "Graphic designer",
             "location": "Campinas, São Paulo, Brazil",
             "dates": "December 2009 - August 2011",
-            "description": "Responsible for create and adapte advertising of the largest teaching and language networks in Brazil, like  Yázigi, Wizard, Microlins, People, and more."
+            "description": "Responsible for create and adapte advertising of " +
+                           "the biggest teaching and language networks in Brazil, " +
+                           "like Yázigi, Wizard, Microlins, People, and more."
         },
         {
             "employer": "RG Print",
             "title": "Graphic designer",
             "location": "Campinas, São Paulo, Brazil",
             "dates": "August 2009 - December 2009",
-            "description": "Creation of graphic arts, logos, stationery and visual identities."
+            "description": "Creation of graphic arts, logos, stationery and " +
+                           "visual identities."
         }
     ]
 };
